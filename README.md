@@ -1,4 +1,4 @@
-# Andrew Ascone
+Click [here](https://andrewascone.github.io/Resume/) to view full resume
 
 ## Contact
 * Email: andrew.ascone@gmail.com
