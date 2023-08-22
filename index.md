@@ -29,8 +29,8 @@ _Click [here](https://github.com/{{ username }}) to view my Github Profile_
 
 ### Contact Information
 * **Email**: [`{{ email }}`](mailto:{{ email }})
-* **Website:** [`{{ repository }}`]({{ repository }})
 * **LinkedIn:** [`{{ linkedin }}`]({{ linkedin }})
+<!-- * **Website:** [`{{ repository }}`]({{ repository }}) -->
 
 ### Personal Projects
 * none
