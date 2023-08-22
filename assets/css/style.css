@@ -4,7 +4,6 @@
 header a,
 header ul,
 p:nth-child(2),
-h1:nth-child(1),
 footer p:nth-child(2) {
   display: none;
 }
