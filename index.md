@@ -1,7 +1,8 @@
-{% assign linkedin = "https://www.linkedin.com/in/leon-hunter" %} {% assign email = "xleonhunter@gmail.com" %} {% assign username = "git-leon" %} {% capture repository %} https://{{ username }}.github.io/resume {% endcapture %}
+{% assign linkedin = "https://www.linkedin.com/in/andrew-ascone" %} {% assign email = "andrew.ascone@gmail.com" %} {% assign username = "AndrewAscone" %} {% capture repository %} https://{{ username }}.github.io/resume {% endcapture %}
 	
 
-Click [here](https://github.com/AndrewAscone) to view my Github Profile
+Click [here](https://github.com/{{ username }}) to view my Github Profile
+
 Education
 
     Champlain College (2009 - 2013)
