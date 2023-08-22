@@ -22,9 +22,9 @@ _Click [here](https://github.com/{{ username }}) to view my Github Profile_
 
 
 ### Education
-* Delaware State University (2011 - 2015)
-* [Bachelor of Science (BS)](./bachelors-degree.pdf)
-* Computer Science Major, Mathematics Minor
+* Champlain College (2009 - 2013)
+* Bachelor of Science (BS)
+* Communication
 
 
 ### Contact Information
