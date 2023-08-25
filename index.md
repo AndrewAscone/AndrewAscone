@@ -23,8 +23,7 @@ _Click [here](https://github.com/{{ username }}) to view my Github Profile_
 
 ### Education
 * Champlain College (2009 - 2013)
-* Bachelor of Science (BS)
-* Communication
+* Bachelor of Science (BS) in Communication
 
 
 ### Contact Information
