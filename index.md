@@ -32,13 +32,9 @@ _Click [here](https://github.com/{{ username }}) to view my Github Profile_
 <!-- * **Website:** [`{{ repository }}`]({{ repository }}) -->
 
 ### Personal Projects
-* none
+* Simple CRUD Server
+   * [GitHub](https://github.com/AndrewAscone/Demo-CRUD-Server)
+   * [Deployed](https://demo-crud-server.onrender.com/) on Render.com
+      * Page may take a few minutes to load
 
-### Exercise and Assignment Completion
-* [`https://github.com/curriculeon`](https://github.com/curriculeon)
-    * [Installing Chocolatey](https://curriculeon.github.io/Curriculeon/lectures/terminal/dos/install-chocolatey/content.html)
-    * [Installing Git CLI](https://curriculeon.github.io/Curriculeon/lectures/version-control-systems/git/installation/content.html)
-    * [Introductory Command Line](https://curriculeon.github.io/Curriculeon/lectures/terminal/dos/install-chocolatey/content.html)
-    * [My First Git Repository](https://curriculeon.github.io/Curriculeon/lectures/version-control-systems/git/my-first-repository/content.html)
-    * [My First Github Page Deployment](https://curriculeon.github.io/Curriculeon/lectures/version-control-systems/git/my-first-githubpage/content.html)
-    * [Adding Changes to Preexisting Repository](https://curriculeon.github.io/Curriculeon/lectures/version-control-systems/git/add-change-to-preexisting-repo/content.html)
+### Experience
