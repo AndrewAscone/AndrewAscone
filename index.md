@@ -59,11 +59,16 @@ communication, project management, application of technology-based solutions, an
 **Bus Driver** | *Feb 2015 – May 2022*
 * Transported 10-12 students on 3 different routes daily in a safe manner, keeping within 3 minutes of estimated arrival time.
 
-### Bev & Wally’s Arcade
-*Keansburg, NJ*
+## Certifications
+**JPMorgan Chase & Co. Software Engineering Lite virtual experience program on
+Forage** | *December 2023*
 
-**Game Attendant** | *Feb 2006 - Aug 2013*
-* Worked summers in high school and college, assisted customers in fast-paced environment in arcade on NJ boardwalk, performed minor machine maintenance, maintained arcade cleanliness
+
+ * Completed a simulation focused on the process of completing an engineering
+   ticket for a system in the credit-card rewards department of JPMorgan Chase &
+   Co.
+ * Created a new class to get an existing system up and running 
+ * Wrote a test suite for the class added
 
 ## Education
 ### Champlain College
