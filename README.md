@@ -11,7 +11,7 @@
          <img src="https://github-readme-stats.vercel.app/api?username=AndrewAscone&show_icons=true&theme=dracula">         
       </td>
       <td>
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={{ username }}&layout=compact&theme=dracula&hide=roff,tsql,c">
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewAscone&layout=compact&theme=dracula&hide=roff,tsql,c">
       </td>
    </tr>
 </table>
