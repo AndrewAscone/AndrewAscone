@@ -1,28 +1,19 @@
 # Andrew Ascone
-### Software Developer
-*Middletown, NJ*
+## Software Developer
 
-## Contact Information
+### Contact Information
 * Phone: (848) 218-3402
 * Email: andrew.ascone@gmail.com
 * GitHub: [AndrewAscone](https://github.com/AndrewAscone)
 * LinkedIn: [Andrew-Ascone](https://www.linkedin.com/in/andrew-ascone/)
 
-## Summary
+### Summary
 > Dedicated, methodical Software Developer seeking new career challenges by integrating a B.S. in Communications and 7+ years of
 customer service experience. Able to anticipate client needs and produce viable solutions to problems with key skills including effective
 communication, project management, application of technology-based solutions, and data analytics.
 
 ## Technical Skills
-* Java
-* SQL
-* Spring Boot
-* Postman
-* MySQL
-* HTML / CSS
-* JavaScript
-* Typescript
-* Git
+Java &bull; SQL &bull; Spring Boot &bull; Postman &bull; MySQL &bull; HTML &bull; CSS &bull; JavaScript &bull; TypeScript &bull; Git
 
 
 ## Career History
