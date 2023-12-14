@@ -1,10 +1,3 @@
-{% assign linkedin = "https://www.linkedin.com/in/andrew-ascone" %}
-{% assign email    = "andrew.ascone@gmail.com" %}
-{% assign username = "AndrewAscone" %}
-{% capture repository %}
-    https://{{ username }}.github.io/resume
-{% endcapture %}
-
 <table>
    <tr>
       <td>
