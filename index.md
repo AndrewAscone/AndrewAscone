@@ -39,11 +39,11 @@ communication, project management, application of technology-based solutions, an
 * Admitted in and completed Zip Code Wilmington’s software development program which accepts less than 10% of applicants; completed over 1000 hours of software development projects in immersive, full-stack training using Agile and Scrum methodologies and test-driven development; gained experience with multiple object-oriented programming languages and frameworks.
 
 #### *Projects*
-* *Group Project*: Dialogue Alley - Collaboratively worked on a team of 3 to develop an online forum capable of posting messages, tagging other users, uploading images, and filtering content by user or by hashtag. Personally contributed to the front-end design using React and creating the REST API with Spring Boot. Developed using Java, Spring Boot, React, and MySQL 
+* *Group Project*: [Dialogue Alley](https://github.com/Formosa-Twitter/DialogueAlley) - Collaboratively worked on a team of 3 to develop an online forum capable of posting messages, tagging other users, uploading images, and filtering content by user or by hashtag. Personally contributed to the front-end design using React and creating the REST API with Spring Boot. Developed using Java, Spring Boot, React, and MySQL 
 
     [[ Dialogue Alley ]](https://github.com/Formosa-Twitter/DialogueAlley)
 
-* *Personal Project*: Demo CRUD Server - Developed and deployed a demo server for managing entries in an H2 database. Developed using Java, Spring Boot, JQuery, and H2. [Live demo deployed using render.com](https://demo-crud-server.onrender.com).
+* *Personal Project*: [Demo CRUD Server](https://github.com/AndrewAscone/Demo-CRUD-Server) - Developed and deployed a demo server for managing entries in an H2 database. Developed using Java, Spring Boot, JQuery, and H2. [Live demo deployed using render.com](https://demo-crud-server.onrender.com).
 
     [[ Demo CRUD Server ]](https://github.com/AndrewAscone/Demo-CRUD-Server)
 
