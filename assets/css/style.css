@@ -397,8 +397,8 @@ table {
 th,
 td {
   text-align: left;
-  padding: 5px 10px;
-  border-bottom: 1px solid #aaa;
+  /*padding: 5px 10px;
+  border-bottom: 1px solid #aaa;*/
 }
 
 dt {
