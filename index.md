@@ -67,4 +67,4 @@ Forage** | *December 2023*
 ### Champlain College
 *Burlington, VT*
 
-**B.S. in Communication** &bull; *May 2013*
+**B.S. in Communication** \| *May 2013*
