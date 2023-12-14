@@ -26,6 +26,12 @@ communication, project management, application of technology-based solutions, an
 
 
 ## Career History
+### ReUnion Rx
+*Atlantic Highlands, NJ*
+
+**Pharmaceutical Delivery Driver** | *Dec 2017 – Present*
+* Deliver vital pharmaceutical products to nursing homes and mental health facilities with 100% accuracy achieved by verifying stocks of medications and maintaining computer inventory records.
+
 ### Zip Code Wilmington
 *Wilmington, DE*
 
@@ -46,12 +52,6 @@ communication, project management, application of technology-based solutions, an
 
 **Network Operations Tech** | *May 2022 – Oct 2022*
 * Coordinated with a team of 4 troubleshooting and resolving technical issues related to routing services and telephone equipment; provided excellent customer service to an average of 8 clients per day.
-
-### ReUnion Rx
-*Atlantic Highlands, NJ*
-
-**Pharmaceutical Delivery Driver** | *Dec 2017 – Oct 2022*
-* Delivered vital pharmaceutical products to nursing homes and mental health facilities with 100% accuracy achieved by verifying stocks of medications and maintaining computer inventory records.
 
 ### Shamrock Stagecoach
 *Keansburg, NJ*
