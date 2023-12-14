@@ -31,15 +31,6 @@ Java &bull; SQL &bull; Spring Boot &bull; Postman &bull; MySQL &bull; HTML &bull
 
 <div style="page-break-after: always"></div>
 
-## Projects
-* *Group Project*: [Dialogue Alley](https://github.com/Formosa-Twitter/DialogueAlley) - Collaboratively worked on a team of 3 to develop an online forum capable of posting messages, tagging other users, uploading images, and filtering content by user or by hashtag. Personally contributed to the front-end design using React and creating the REST API with Spring Boot. Developed using Java, Spring Boot, React, and MySQL 
-
-    [[ Dialogue Alley ]](https://github.com/Formosa-Twitter/DialogueAlley)
-
-* *Personal Project*: [Demo CRUD Server](https://github.com/AndrewAscone/Demo-CRUD-Server) - Developed and deployed a demo server for managing entries in an H2 database. Developed using Java, Spring Boot, JQuery, and H2. [Live demo deployed using render.com](https://demo-crud-server.onrender.com).
-
-    [[ Demo CRUD Server ]](https://github.com/AndrewAscone/Demo-CRUD-Server)
-
 ### Monmouth Telecom
 *Red Bank, NJ*
 
@@ -51,6 +42,15 @@ Java &bull; SQL &bull; Spring Boot &bull; Postman &bull; MySQL &bull; HTML &bull
 
 **Bus Driver** | *Feb 2015 – May 2022*
 * Transported 10-12 students on 3 different routes daily in a safe manner, keeping within 3 minutes of estimated arrival time.
+
+## Projects
+* *Group Project*: [Dialogue Alley](https://github.com/Formosa-Twitter/DialogueAlley) - Collaboratively worked on a team of 3 to develop an online forum capable of posting messages, tagging other users, uploading images, and filtering content by user or by hashtag. Personally contributed to the front-end design using React and creating the REST API with Spring Boot. Developed using Java, Spring Boot, React, and MySQL 
+
+    [[ Dialogue Alley ]](https://github.com/Formosa-Twitter/DialogueAlley)
+
+* *Personal Project*: [Demo CRUD Server](https://github.com/AndrewAscone/Demo-CRUD-Server) - Developed and deployed a demo server for managing entries in an H2 database. Developed using Java, Spring Boot, JQuery, and H2. [Live demo deployed using render.com](https://demo-crud-server.onrender.com).
+
+    [[ Demo CRUD Server ]](https://github.com/AndrewAscone/Demo-CRUD-Server)
 
 ## Certifications
 **JPMorgan Chase & Co. Software Engineering Lite virtual experience program on
