@@ -16,7 +16,7 @@ communication, project management, application of technology-based solutions, an
 Java &bull; SQL &bull; Spring Boot &bull; Postman &bull; MySQL &bull; HTML &bull; CSS &bull; JavaScript &bull; TypeScript &bull; Git
 
 
-## Career History
+## Experience
 ### ReUnion Rx
 *Atlantic Highlands, NJ*
 
@@ -31,7 +31,7 @@ Java &bull; SQL &bull; Spring Boot &bull; Postman &bull; MySQL &bull; HTML &bull
 
 <div style="page-break-after: always"></div>
 
-#### *Projects*
+### *Projects*
 * *Group Project*: [Dialogue Alley](https://github.com/Formosa-Twitter/DialogueAlley) - Collaboratively worked on a team of 3 to develop an online forum capable of posting messages, tagging other users, uploading images, and filtering content by user or by hashtag. Personally contributed to the front-end design using React and creating the REST API with Spring Boot. Developed using Java, Spring Boot, React, and MySQL 
 
     [[ Dialogue Alley ]](https://github.com/Formosa-Twitter/DialogueAlley)
