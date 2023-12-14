@@ -490,3 +490,17 @@ screen and (max-width: 580px) {
     content: 'at https://github.com/';
   }
 }
+
+@media screen {
+  body {
+      transform: scale(1.5);
+      transform-origin: top center;
+      width: calc(100% / 1.5);
+      margin: 0 auto;
+      overflow-x: hidden;
+  }
+
+  .print-only {
+      display: none;
+  }
+}
