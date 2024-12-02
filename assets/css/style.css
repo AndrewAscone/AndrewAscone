@@ -353,8 +353,8 @@ h6 {
 }
 
 blockquote {
-  margin: 0 -10px 10px;
-  padding: 3px 8px 0.2px 8px;
+  margin: 0 -8px 8px;
+  padding: 5px 10px 0.2px 10px;
   font-style: italic;
   background: #ccc;
   background: rgba(0, 0, 0, 0.06);
