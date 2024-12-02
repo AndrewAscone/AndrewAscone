@@ -148,9 +148,9 @@ html {
 }
 
 body {
-  padding: 16px 0;
+  padding: 18px 0;
   margin: 0;
-  font: 13px/1.08 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 13px/1 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #555;
   font-weight: 300;
   background: inline-image("checker.png") fixed;
@@ -190,7 +190,7 @@ header {
   background: #C6EAFA;
   background: linear_gradient(#DDFBFC, #C6EAFA);
   position: relative;
-  padding: 10px 10px;
+  padding: 8px 8px;
   border-bottom: 1px solid #B2D2E1;
   display: none;
 }
