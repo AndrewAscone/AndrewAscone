@@ -17,28 +17,24 @@ Java &bull; SQL &bull; Spring Boot &bull; Postman &bull; MySQL &bull; HTML &bull
 
 
 ## Experience
-### ReUnion Rx
-*Atlantic Highlands, NJ*
+### ReUnion Rx || *Atlantic Highlands, NJ*
 
 **Pharmaceutical Delivery Driver** | *Dec 2017 – Present*
 * Deliver vital pharmaceutical products to nursing homes and mental health facilities with 100% accuracy achieved by verifying stocks of medications and maintaining computer inventory records.
 
-### Zip Code Wilmington
-*Wilmington, DE*
+### Zip Code Wilmington || *Wilmington, DE*
 
 **Software Developer** | *Oct 2022 - Jan 2023*
 * Admitted in and completed Zip Code Wilmington’s software development program which accepts less than 10% of applicants; completed over 1000 hours of software development projects in immersive, full-stack training using Agile and Scrum methodologies and test-driven development; gained experience with multiple object-oriented programming languages and frameworks.
 
-<div style="page-break-after: always"></div>
+<!---<div style="page-break-after: always"></div>-->
 
-### Monmouth Telecom
-*Red Bank, NJ*
+### Monmouth Telecom || *Red Bank, NJ*
 
 **Network Operations Tech** | *May 2022 – Oct 2022*
 * Coordinated with a team of 4 troubleshooting and resolving technical issues related to routing services and telephone equipment; provided excellent customer service to an average of 8 clients per day.
 
-### Shamrock Stagecoach
-*Keansburg, NJ*
+### Shamrock Stagecoach || *Keansburg, NJ*
 
 **Bus Driver** | *Feb 2015 – May 2022*
 * Transported 10-12 students on 3 different routes daily in a safe manner, keeping within 3 minutes of estimated arrival time.
@@ -64,7 +60,6 @@ Forage** | *December 2023*
  * Wrote a test suite for the class added
 
 ## Education
-### Champlain College
-*Burlington, VT*
+### Champlain College || *Burlington, VT*
 
-**B.S. in Communication** \| *May 2013*
+**B.S. in Communication** | *May 2013*
